@@ -60,11 +60,20 @@
 
 ## 🟢 Entry Projects
 
-**Entry로 만든 프로젝트**
+### 🎮 달려라 땅크맨 — 천안문 전투 V1.1
 
-`아직 프로젝트가 없습니다`
+> Entry로 제작한 게임 프로젝트
 
-> Entry 프로젝트 파일을 추가하면 이곳에 프로젝트 카드 형태로 정리합니다.
+| 항목 | 내용 |
+|---|---|
+| 🎮 **분류** | Entry Project |
+| 📌 **버전** | V1.1 |
+| 🧩 **제작 도구** | Entry |
+| ▶️ **온라인 실행** | [Entry에서 프로젝트 열기](https://playentry.org/project/6a991a69ca8da4da3dff6c3b) |
+| 📦 **원본 파일** | `.ent` 파일 보관 예정 |
+
+**프로젝트 파일:**  
+`달려라 땅크맨[천안문 전투_V1_1].ent`
 
 ---
 
@@ -82,7 +91,8 @@
 
 | Project | Category | Tech | Status |
 |:--|:--:|:--:|:--:|
-| 준비 중 | — | — | 🟡 Planning |
+| 🎮 달려라 땅크맨 — 천안문 전투 V1.1 | Entry | Entry | 🟢 Completed |
+| 준비 중 | Vibe Coding | — | 🟡 Planning |
 
 ---
 
@@ -125,7 +135,7 @@ REPEAT
 # 🗂️ Portfolio Roadmap
 
 - [x] GitHub 프로필 포트폴리오 구축
-- [ ] 첫 Entry 프로젝트 추가
+- [x] 첫 Entry 프로젝트 등록
 - [ ] 첫 Vibe Coding 프로젝트 추가
 - [ ] 자격증 등록
 - [ ] 수상 경력 등록
