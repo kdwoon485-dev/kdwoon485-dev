@@ -1,97 +1,144 @@
-# 👋 안녕하세요, 저는 KDWOON485입니다!
+<div align="center">
 
-> **학생 개발자 · 프로젝트 제작자 · Vibe Coder**
+# 👋 KDWOON485
 
-저만의 아이디어를 직접 프로젝트로 만들고,  
-배운 것을 기록하면서 계속 확장해 나가는 개발자입니다.
+### 학생 개발자 · 프로젝트 제작자 · Vibe Coder
+
+**아이디어를 직접 만들고, 기록하고, 계속 발전시킵니다.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/kdwoon485-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-README-0A66C2?style=for-the-badge&logo=github)](https://github.com/kdwoon485-dev)
+
+</div>
 
 ---
 
-## 👤 About Me
+## 🧑‍💻 About Me
 
-| 항목 | 내용 |
+> **"생각한 것을 직접 만들어보자."**
+
+웹, 게임, Entry, Vibe Coding 등 다양한 분야의 프로젝트를 만들고 있습니다.  
+작은 아이디어도 실제 결과물로 구현하고, 프로젝트를 만들면서 배운 내용을 계속 쌓아가는 것을 목표로 합니다.
+
+| | |
 |---|---|
-| 🎯 관심 분야 | 웹 개발 · 게임 개발 · Vibe Coding · 창작 프로젝트 |
-| 🧩 프로젝트 | Entry 프로젝트 · 웹 프로젝트 · 다양한 실험 프로젝트 |
-| 🚀 목표 | 직접 만들고, 기록하고, 계속 개선하기 |
+| 🎯 **관심 분야** | Web · Game · Entry · Vibe Coding · Creative Projects |
+| 🧪 **주요 활동** | 프로젝트 제작 · 실험 · 학습 · 개선 |
+| 🚀 **현재 목표** | 더 많은 프로젝트를 만들고 포트폴리오 확장하기 |
 
 ---
 
-## 💼 Career & Experience
+# 💼 Career & Experience
 
-### 🏆 자격증
-- 아직 등록된 자격증이 없습니다.
-- 앞으로 취득한 자격증을 이곳에 추가합니다.
+### 🏆 Certifications
+> 취득한 자격증을 이곳에 추가합니다.
 
-### 🥇 수상 경력
-- 아직 등록된 수상 경력이 없습니다.
-- 새로운 수상 경력이 생기면 이곳에 추가합니다.
+**등록된 자격증**  
+`준비 중`
 
-### 📌 활동 & 경험
-- 프로젝트를 만들며 개발 경험을 쌓고 있습니다.
-- 새로운 활동과 경험을 계속 추가할 예정입니다.
+### 🥇 Awards
+> 수상 경력을 이곳에 추가합니다.
+
+**등록된 수상 경력**  
+`준비 중`
+
+### 📌 Activities
+프로젝트 제작과 다양한 개발 활동을 통해 경험을 쌓고 있습니다.
+
+- 🔨 프로젝트 제작
+- 💡 새로운 아이디어 실험
+- 📚 개발 학습
+- 🔄 기존 프로젝트 개선
 
 ---
+
+# 🚀 Projects
+
+제가 만든 프로젝트를 종류별로 정리합니다.
 
 ## 🟢 Entry Projects
 
-Entry로 제작한 프로젝트를 모아두는 공간입니다.
+**Entry로 만든 프로젝트**
 
-### 📌 프로젝트 준비 중
-앞으로 Entry 프로젝트 파일을 추가하면 이곳에서 확인할 수 있도록 연결합니다.
+`아직 프로젝트가 없습니다`
+
+> Entry 프로젝트 파일을 추가하면 이곳에 프로젝트 카드 형태로 정리합니다.
 
 ---
 
 ## 💻 Vibe Coding Projects
 
-AI와 함께 아이디어를 빠르게 구현하고 발전시킨 프로젝트입니다.
+**AI와 함께 아이디어를 빠르게 구현하고 발전시킨 프로젝트**
 
-### 📌 프로젝트 준비 중
-앞으로 프로젝트를 추가하면 프로젝트 설명, 기술, GitHub 저장소, 실행 링크 등을 연결합니다.
+`아직 프로젝트가 없습니다`
 
----
-
-## 🚀 Projects
-
-앞으로 만들어지는 모든 프로젝트를 한 곳에서 확인할 수 있도록 확장할 예정입니다.
-
-| 프로젝트 | 종류 | 기술 | 링크 |
-|---|---|---|---|
-| 준비 중 | - | - | - |
+> 프로젝트가 추가되면 **설명 · 기술 · GitHub · 실행 링크 · 미리보기**를 함께 연결합니다.
 
 ---
 
-## 🛠️ Tech & Tools
+## 📦 All Projects
 
-`HTML` · `CSS` · `JavaScript` · `GitHub` · `Entry` · `Vibe Coding`
-
-프로젝트가 늘어날수록 사용 기술도 계속 업데이트합니다.
-
----
-
-## 📂 앞으로의 확장
-
-이 프로필은 처음부터 **계속 추가할 수 있는 포트폴리오**를 목표로 합니다.
-
-- ➕ 새로운 프로젝트 추가
-- 🟢 Entry 프로젝트 추가
-- 💻 Vibe Coding 프로젝트 추가
-- 🏆 자격증 추가
-- 🥇 수상 경력 추가
-- 🔗 프로젝트 GitHub 저장소 연결
-- 🌐 프로젝트 실행 페이지 연결
-- 🖼️ 프로젝트 이미지 및 미리보기 추가
-- 📝 프로젝트별 상세 설명 추가
+| Project | Category | Tech | Status |
+|:--|:--:|:--:|:--:|
+| 준비 중 | — | — | 🟡 Planning |
 
 ---
 
-## 📊 GitHub
+# 🛠️ Tech & Tools
 
-제가 만든 프로젝트와 개발 기록을 계속 업데이트합니다.
+<div align="center">
 
-**새로운 프로젝트가 생길 때마다 이 포트폴리오도 함께 성장합니다.**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Entry](https://img.shields.io/badge/Entry-00A86B?style=for-the-badge)
+![Vibe%20Coding](https://img.shields.io/badge/Vibe%20Coding-AI-8B5CF6?style=for-the-badge)
+
+</div>
 
 ---
 
-### ⭐ Thanks for visiting!
+# 📈 My Development
 
+```
+IDEA
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+IMPROVE
+  ↓
+SHARE
+  ↓
+REPEAT
+```
+
+저는 프로젝트 하나를 완성하는 것에서 끝내지 않고  
+**다음 프로젝트로 이어지는 경험**을 만드는 것을 중요하게 생각합니다.
+
+---
+
+# 🗂️ Portfolio Roadmap
+
+- [x] GitHub 프로필 포트폴리오 구축
+- [ ] 첫 Entry 프로젝트 추가
+- [ ] 첫 Vibe Coding 프로젝트 추가
+- [ ] 자격증 등록
+- [ ] 수상 경력 등록
+- [ ] 프로젝트 미리보기 추가
+- [ ] 프로젝트별 상세 페이지 연결
+- [ ] 포트폴리오 지속 업데이트
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Projects → Experience → Growth**
+
+</div>
