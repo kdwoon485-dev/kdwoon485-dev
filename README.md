@@ -33,10 +33,11 @@
 # 💼 Career & Experience
 
 ### 🏆 Certifications
-> 취득한 자격증을 이곳에 추가합니다.
 
-**등록된 자격증**  
-`준비 중`
+| 자격증 | 등급 | 분야 | 합격일자 |
+|:--|:--:|:--|:--:|
+| **Coding Specialist** | **3급 / Basic** | Entry · 한글 | 2024.09.30 |
+| **Coding Specialist** | **2급 / Intermediate** | Scratch · 한글 | 2026.01.27 |
 
 ### 🥇 Awards
 > 수상 경력을 이곳에 추가합니다.
@@ -136,8 +137,8 @@ REPEAT
 
 - [x] GitHub 프로필 포트폴리오 구축
 - [x] 첫 Entry 프로젝트 등록
+- [x] 자격증 등록
 - [ ] 첫 Vibe Coding 프로젝트 추가
-- [ ] 자격증 등록
 - [ ] 수상 경력 등록
 - [ ] 프로젝트 미리보기 추가
 - [ ] 프로젝트별 상세 페이지 연결
